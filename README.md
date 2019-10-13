@@ -1,4 +1,5 @@
 this file README file  
+this local root is ubuntu linux  ~/myjtmin7
 ## this title  
 > this is quotation  
  this line 2  
